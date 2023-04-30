@@ -1,0 +1,15 @@
+name: unicef
+title: UNICEF
+username:
+account: Djidjie Diarrassouba
+server: posit.cloud
+hostUrl: https://api.shinyapps.io/v1
+appId: 8991881
+bundleId: 7154749
+url: https://posit.cloud/content/5893940
+when: 1682824599.99736
+lastSyncTime: 1682824599.99737
+quarto_version: 1.2.475
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
